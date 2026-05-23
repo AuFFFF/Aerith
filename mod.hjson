@@ -1,0 +1,11 @@
+name: "aerith"
+description:
+'''
+For now in development
+'''
+author: "AuF"
+minGameVersion: 157.4
+version: "0.1"
+displayName: "Aerith"
+subtitle: "The sky doesn't know borders..."
+repo: "AuFFFF/Aerith"
